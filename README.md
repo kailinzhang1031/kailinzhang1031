@@ -15,6 +15,6 @@ I'm focusing on algorithm, machine learning, NLP, CV, etc. Morover, I'm studying
 
 🌙课余时间喜欢读读书📖，写写文字。 希望可以与大家做朋友！
 
-I love reading books and writing soomething during my free time. Hope to make friends with everyone!
+I love reading books and writing something during my free time. Hope to make friends with everyone!
 
 2021.7.13

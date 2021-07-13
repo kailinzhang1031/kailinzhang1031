@@ -6,7 +6,7 @@ Charming!
 
 🌟这里是Kailin Zhang，西安/广州来回飞✈️ ，目前计算机科学与技术，大二在读。
 
-Here is Kailin Zhang, live in Xi'an/Guangzhou, China. I'm sophomore now and major in CS. 
+Here is Kailin Zhang, living in Xi'an/Guangzhou, China. I'm sophomore now and major in CS. 
 
 
 ✈️目前在努力的方向有：算法、机器学习、自然语言处理、计算机视觉等。也在不断努力提高自己的数学能力。

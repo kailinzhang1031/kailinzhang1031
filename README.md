@@ -11,7 +11,7 @@ Here is Kailin Zhang, living in Xi'an/Guangzhou, China. I'm sophomore now and ma
 
 ✈️目前在努力的方向有：算法、机器学习、自然语言处理、计算机视觉、数据科学等。也在不断努力提高自己的数学能力。
 
-I'm focusing on algorithm, machine learning, NLP, CV, DataScience, etc. Moreover, I'm studying to enhance my skills in mathematics.
+I'm focusing on algorithm, machine learning, NLP, CV, Data Science, etc. Moreover, I'm studying to enhance my skills in mathematics.
 
 🌙课余时间喜欢读读书📖，写写文字。 希望可以与大家做朋友！
 

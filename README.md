@@ -4,7 +4,7 @@
 
 Charming!
 
-🌟这里是Kailin Zhang，坐标西安/广州✈️ ，目前计算机科学与技术，大二在读。
+🌟这里是Kailin Zhang，西安/广州✈️ ，目前计算机科学与技术，大二在读。
 
 Here is Kailin Zhang, living in Xi'an/Guangzhou, China. I'm sophomore now and major in CS. 
 
